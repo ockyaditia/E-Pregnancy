@@ -1,0 +1,12 @@
+*pdf_data_summary.pdf
+*pdf_data_kehamilan.pdf
+*pdf_data_kehamilan_berikutnya.pdf
+*pdf_data_medrec_kehamilan.pdf
+*pdf_data_detail_persalinan.pdf
+*pdf_data_persalinan.pdf
+*pdf_data_rujukan.pdf
+
+Not yet:
+- Umpan Balik Rujukan
+- Data Ibu Nifas Lihat + PDF
+- All form include Nama Pasien dan Tanggal Hamil
